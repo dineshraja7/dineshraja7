@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dineshraja7
 - 👀 I’m interested in ...Web Application Development,Animations
-- 🌱 I’m currently learning ...B.Tech Information Technology Final Year
+- 🌱 Completed B.TECH Information Technology at KGiSL Institute of Technology
 - 📫 How to reach me ...contact email:dineshraja7567@gmail.com
 
 <!---
